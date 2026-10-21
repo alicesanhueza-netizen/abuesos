@@ -1,0 +1,1 @@
+{"name":"AbueSOS - Ayuda sencilla","short_name":"AbueSOS","description":"Acceso sencillo para llamar a emergencias o a un contacto de confianza.","start_url":"/","scope":"/","display":"standalone","background_color":"#fff7f7","theme_color":"#b91c3a","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
